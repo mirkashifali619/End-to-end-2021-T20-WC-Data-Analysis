@@ -1,16 +1,19 @@
 # End-to-end-2021-T20-WC-Data-Analysis
 
-Description:
+# Description:
 
 The 2021 T20 World Cup Analytics project embarked on a comprehensive journey to derive actionable insights from player performances during the tournament. Leveraging a systematic approach, the project encompassed data preprocessing, Power BI integration, and the creation of insightful dashboards to evaluate player statistics across various categories.
 
-1. Data Preprocessing:
+# 1. Data Preprocessing:
+
 The project initiated with meticulous data preprocessing, converting raw JSON files into structured CSV files using the powerful combination of Pandas and JSON. This crucial step laid the foundation for subsequent analytics, ensuring that the data was formatted for efficient analysis.
 
-2. Power BI Integration and Data Modeling:
+# 2. Power BI Integration and Data Modeling:
+
 The preprocessed CSV files were seamlessly integrated into Power BI, a robust business analytics tool. The project team employed Data Analysis Expressions (DAX) measures and data modeling techniques to create a solid foundation for extracting meaningful insights from the dataset.
 
-3. Dashboards:
+# 3. Dashboards:
+
 Four distinct dashboards were designed to delve into specific player categories, providing valuable insights into their performances during the 2021 T20 World Cup.
 
 a) Openers/Power Hitters Dashboard:
@@ -28,6 +31,6 @@ This dashboard analyzed players contributing with both bat and ball. Filters inc
 e) Specialist Fast Bowlers Dashboard:
 Focusing on the specialist fast bowlers, this dashboard considered filters like bowling average below 20, bowling strike rate below 16, dot ball percentage exceeding 40, economy below 7, and a minimum of four innings bowled.
 
-Conclusion:
+# Conclusion:
 
 Through these meticulously crafted dashboards, the project aimed to offer nuanced insights into player performances during the 2021 T20 World Cup, enabling stakeholders to make informed decisions and gain a comprehensive understanding of player contributions in various roles.
